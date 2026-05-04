@@ -4,10 +4,10 @@ This project presents a deep learning-based approach for maritime vessel detecti
 A pretrained YOLOv8s model is used for object detection due to its lightweight architecture and real-time capability. The model is trained on the HRSID dataset, where vessels are manually annotated using Roboflow with a single class label, “SHIP.”
 
 **Dataset**
-. Dataset: HRSID (High-Resolution SAR Image Dataset)
-. Total images: 1069
-. Class: SHIP
-. Annotation: Manual annotation with augumentation using Roboflow
+1. Dataset: HRSID (High-Resolution SAR Image Dataset)
+2. Total images: 1069
+3. Class: SHIP
+4. Annotation: Manual annotation with augumentation using Roboflow
 
 **Methodology**
 
