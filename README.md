@@ -1,5 +1,6 @@
 # MARITIME-VESSEL-DETECTION-USING-SAR-IMAGERY-AND-YOLOV8
 **Project Description**
+
 This project presents a deep learning-based approach for maritime vessel detection using Synthetic Aperture Radar (SAR) imagery. Unlike optical imaging systems, which are affected by fog, clouds, and low-light conditions, SAR enables reliable monitoring under all-weather and day-and-night conditions. The objective is to develop an automated system capable of accurately detecting ships in complex maritime environments.
 A pretrained YOLOv8s model is used for object detection due to its lightweight architecture and real-time capability. The model is trained on the HRSID dataset, where vessels are manually annotated using Roboflow with a single class label, “SHIP”
 
