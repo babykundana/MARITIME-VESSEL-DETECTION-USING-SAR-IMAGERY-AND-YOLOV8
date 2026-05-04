@@ -6,7 +6,7 @@ A pretrained YOLOv8s model is used for object detection due to its lightweight a
 
 **Dataset**
 1. Dataset: HRSID (High-Resolution SAR Image Dataset)
-2. Total images: 1069
+2. Link: https://github.com/jasonmanesis/Satellite-Imagery-Datasets-Containing-Ships/blob/main/README.md 
 3. Class: SHIP
 4. Annotation: Manual annotation with augumentation using Roboflow
 
