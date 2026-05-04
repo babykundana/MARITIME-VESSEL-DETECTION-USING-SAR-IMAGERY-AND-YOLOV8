@@ -49,10 +49,10 @@ The system performs effectively in challenging conditions such as sea clutter an
 4) Search and rescue operations for locating vessels
 
 **Tools and Technologies**
-Python
-YOLOv8 (Ultralytics)
-Roboflow
-Google colab
+1) Python
+2) YOLOv8 (Ultralytics)
+3) Roboflow
+4) Google colab
 
 **Future Scope**
 1) Vessel classification into different ship categories 
